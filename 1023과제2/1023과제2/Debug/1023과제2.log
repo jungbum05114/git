@@ -1,0 +1,8 @@
+﻿  소스.cpp
+c:\users\uh051\source\repos\1023과제2\1023과제2\소스.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\uh051\source\repos\1023과제2\1023과제2\소스.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\uh051\source\repos\1023과제2\1023과제2\소스.cpp(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+  1023과제2.vcxproj -> C:\Users\uh051\source\repos\1023과제2\Debug\1023과제2.exe
